@@ -5,5 +5,3 @@
 - 📫 How to reach me: Email me __codanielyt@gmail.com__.
   
 ### Hello, mind checking my portfolio? that'll be great!
-
-**https://james-cos.netlify.app/**
