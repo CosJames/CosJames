@@ -10,7 +10,7 @@ tooling (video, 3D, and generated media).
 
 [![GitHub](https://img.shields.io/badge/GitHub-CosJames-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CosJames)
 [![Followers](https://img.shields.io/github/followers/CosJames?style=flat-square&color=38bdf8&label=followers)](https://github.com/CosJames?tab=followers)
-[![Focus](https://img.shields.io/badge/focus-backend%20%26%20data-1e293b?style=flat-square)](#what-im-working-on)
+![Focus](https://img.shields.io/badge/focus-backend%20%26%20data-1e293b?style=flat-square)
 
 </div>
 
@@ -38,7 +38,7 @@ tooling (video, 3D, and generated media).
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
@@ -46,7 +46,7 @@ tooling (video, 3D, and generated media).
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Remotion](https://img.shields.io/badge/Remotion-0B84F3?style=flat-square&logo=remotion&logoColor=white)
+![Remotion](https://img.shields.io/badge/Remotion-0B84F3?style=flat-square)
 ![Responsive UI](https://img.shields.io/badge/Responsive_UI-0EA5E9?style=flat-square&logo=csswizardry&logoColor=white)
 
 ### Backend & APIs
@@ -67,20 +67,20 @@ tooling (video, 3D, and generated media).
 
 ### Cloud, tooling & AI
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP_%2F_agents-6E56CF?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square)
 
 ### Game dev & creative
 
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=flat-square&logo=robloxstudio&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
 
 ---
 
